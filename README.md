@@ -16,9 +16,9 @@
 
 | 仓库名称 | 说明 | 技术栈 |
 | :--- | :--- | :--- |
-| **[DocuMind-AI-Main](./)** | 主仓库 | 项目文档、部署脚本、公共资源 |
+| **[DocuMind-AI-Main](../DocuMind-AI-Main)** | 主仓库 | 项目文档、部署脚本、公共资源 |
 | **[DocuMind-AI-Backend](../DocuMind-AI-Backend)** | 后端服务 | Java 21, Spring Cloud Alibaba, Nacos, MySQL, Redis |
-| **[DocuMind-AI-Frontend](../DocuMind-AI-Frontend)** | 前端应用 | React 18, TypeScript, Vite, Ant Design, Tailwind CSS |
+| **[DocuMind-AI-Frontend](./)** | 前端应用 | React 18, TypeScript, Vite, Ant Design, Tailwind CSS |
 | **[DocuMind-AI-Python](../DocuMind-AI-Python)** | AI 核心服务 | Python 3.10+, PyTorch, LangChain, OCR, LLM |
 
 ## 🏗️ 技术栈
