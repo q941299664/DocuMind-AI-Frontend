@@ -6,6 +6,21 @@
 
 **DocuMind AI** 前端应用，基于 **React 18** 和 **Vite** 构建，采用现代化组件库 **Ant Design** 和原子 CSS 框架 **Tailwind CSS**，提供流畅、美观的用户体验。
 
+## 🚀 项目愿景
+
+打造开箱即用、高性能、可扩展的智能文档处理平台，解决企业在文档管理、知识检索、智能问答等场景下的核心痛点。
+
+## 📂 仓库结构
+
+本项目采用多仓库管理模式，核心仓库如下：
+
+| 仓库名称 | 说明 | 技术栈 |
+| :--- | :--- | :--- |
+| **[DocuMind-AI-Main](./)** | 主仓库 | 项目文档、部署脚本、公共资源 |
+| **[DocuMind-AI-Backend](../DocuMind-AI-Backend)** | 后端服务 | Java 21, Spring Cloud Alibaba, Nacos, MySQL, Redis |
+| **[DocuMind-AI-Frontend](../DocuMind-AI-Frontend)** | 前端应用 | React 18, TypeScript, Vite, Ant Design, Tailwind CSS |
+| **[DocuMind-AI-Python](../DocuMind-AI-Python)** | AI 核心服务 | Python 3.10+, PyTorch, LangChain, OCR, LLM |
+
 ## 🏗️ 技术栈
 
 - **框架**: React 18, TypeScript 5.x
